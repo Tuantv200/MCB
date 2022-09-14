@@ -1,0 +1,58 @@
+<style>
+#anh{
+    width: 100%;
+    height: 500px;
+    border: 3px;
+    padding: auto;
+}
+#anh1 img{
+    width: 25%;
+    height: 400px;
+    border-radius: 30px;
+    float: left;
+}
+#anh2 img{
+    width: 25%;
+    height: 400px;
+    border-radius: 30px;
+    float: left;
+}
+#anh3 img{
+    width: 25%;
+    height: 400px;
+    border-radius: 30px;
+    float: left;
+}
+#anh4 img{
+    width: 25%;
+    height: 400px;
+    border-radius: 30px;
+    float: left;
+}
+#name{
+    width: 100%;
+    height: 500px;
+    border: 3px;
+    padding: auto;
+}
+#name1{
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+#name2{
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+#name3{
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+#name4{
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+</style>

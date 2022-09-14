@@ -1,0 +1,32 @@
+<style>
+#temp{
+    border: 1px solid black;
+    background-image:linear-gradient(rgba(14, 190, 239, 0.263),rgba(62, 215, 45, 0.139));
+    text-align: center;
+    float: left;
+    padding: auto;
+}
+#temp3{
+    border: 1px solid black;
+    background-image: linear-gradient(yellow,rgb(8, 252, 106));
+    text-align: center;
+    float: left;
+    padding: auto;
+}
+#temp4{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: linear-gradient(yellow,rgb(8, 252, 106));
+    text-align: center;
+    float:left;
+    padding: auto;
+}
+#temp5{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: linear-gradient(pink,rgba(245, 6, 6, 0.689));
+    text-align: center;
+    float:left;
+    padding: auto;
+}
+</style>
